@@ -9,6 +9,9 @@ HTML
 # Description
 This code demo shows how to create responsive modals that pop up when you hover over certain areas of an image. It uses jquery and absolute positioning, taking advantage of percentage values for sizes and placement.
 
+- [Live Link](https://alannarisse.github.io/Responsive-round-modal-on-hover/)
+- [Repl.it](https://replit.com/@alannarisse/round-modal)
+
 ![Screenshot](screenshot.png)
 
 
